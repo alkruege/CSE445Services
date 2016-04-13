@@ -1,0 +1,6 @@
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\bin\Homework3DemingLiuService4.dll.config
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\bin\Homework3DemingLiuService4.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\bin\Homework3DemingLiuService4.pdb
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\obj\Debug\Homework3DemingLiuService4.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\obj\Debug\Homework3DemingLiuService4.pdb
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService4\obj\Debug\Homework3DemingLiuService4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\bin\Homework3DemingLiuService3.dll.config
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\bin\Homework3DemingLiuService3.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\bin\Homework3DemingLiuService3.pdb
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\bin\Newtonsoft.Json.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\bin\Newtonsoft.Json.xml
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\obj\Debug\Homework3DemingLiuService3.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\obj\Debug\Homework3DemingLiuService3.pdb
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService3\obj\Debug\Homework3DemingLiuService3.csprojResolveAssemblyReference.cache

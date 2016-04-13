@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXVOV4kdRh0a/R3BY1YgzdgAAAAACAAAAAAAQZgAAAAEAACAAAADafKvs9LB+92estBLm3nLPrcpkuHhC7ebLSiS1z5Ht2wAAAAAOgAAAAAIAACAAAAClwnOnvQwh2k6ErxhzTvEiBTMUUQGsC2dOqU8vn9sf0hAAAAC1wNzFifg4v7DEoofc6lLfQAAAACUN8k9TLWxaZBSRMDp9hzWy4uYkg0aYrAGsuf2JV/etBTK3Td7kTsKroVMi7iShtXPXMK+iei3IQrIBCSW6tQE=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.17.91:8034</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Homework3DemingLiu.dll">
+      <publishTime>04/02/2016 21:50:32</publishTime>
+    </File>
+    <File Include="bin/Homework3DemingLiu.pdb">
+      <publishTime>04/02/2016 21:50:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/19/2016 18:46:29</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/19/2016 18:46:29</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/02/2016 22:08:01</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>03/17/2016 22:26:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/02/2016 21:50:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

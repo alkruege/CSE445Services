@@ -1,0 +1,7 @@
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\bin\Homework3DemingLiuService2.dll.config
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\bin\Homework3DemingLiuService2.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\bin\Homework3DemingLiuService2.pdb
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\bin\Newtonsoft.Json.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\bin\Newtonsoft.Json.xml
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\obj\Release\Homework3DemingLiuService2.dll
+C:\Users\dougd\Documents\Visual Studio 2015\Projects\Homework3DemingLiu\Homework3DemingLiuService2\obj\Release\Homework3DemingLiuService2.pdb

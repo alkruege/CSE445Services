@@ -1,0 +1,6 @@
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\bin\AvailableTime.dll.config
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\bin\AvailableTime.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\bin\AvailableTime.pdb
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\obj\Debug\AvailableTime.csprojResolveAssemblyReference.cache
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\obj\Debug\AvailableTime.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\AvailableTime\obj\Debug\AvailableTime.pdb

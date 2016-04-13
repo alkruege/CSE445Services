@@ -1,0 +1,6 @@
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\bin\tempService.dll.config
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\bin\tempService.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\bin\tempService.pdb
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\obj\Debug\tempService.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\obj\Debug\tempService.pdb
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\tempService\obj\Debug\tempService.csprojResolveAssemblyReference.cache

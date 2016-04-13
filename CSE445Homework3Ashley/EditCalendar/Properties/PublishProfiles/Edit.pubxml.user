@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOtdWzodrK06uqbgePZ6fFwAAAAACAAAAAAAQZgAAAAEAACAAAACNh1QGcAX4JLOymUBfmzwrT8eTU9GPrPQnTvuONqBkFwAAAAAOgAAAAAIAACAAAABa9/PSwKudPtHAm/PGAIshOOXa+kLeJQeCIrA6/zMuQhAAAABX5Nk/D7uvol+R0e0EhnLDQAAAAEyMDL+4vjljMgJ6KFyiuyoRinheuDU04ggls46klj8AdsDIH3Zg/wtgeacEF2S7BOYX45RzNEEhh+u+yJPKjpY=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.17.91:8022</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EditCalendar.dll">
+      <publishTime>03/30/2016 18:13:16</publishTime>
+    </File>
+    <File Include="bin/EditCalendar.pdb">
+      <publishTime>03/30/2016 18:13:16</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/30/2016 18:13:17</publishTime>
+    </File>
+    <File Include="Service2.svc">
+      <publishTime>03/30/2016 18:10:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/30/2016 18:13:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

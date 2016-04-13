@@ -1,0 +1,6 @@
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\bin\WeatherService.dll.config
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\bin\WeatherService.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\bin\WeatherService.pdb
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\obj\Debug\WeatherService.dll
+C:\Users\ashly\Desktop\CSE 445\CSE445Homework3\WeatherService\obj\Debug\WeatherService.pdb
